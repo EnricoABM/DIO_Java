@@ -1,18 +1,11 @@
-## Getting Started
+# Resumo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Módulo: Escopo e Estruturas de Controle em Java
 
-## Folder Structure
+Desafio de Projeto: Criando Um Pequeno Sistema para Validação de Processo Seletivo 
 
-The workspace contains two folders by default, where:
+Nome do Projeto: DesafioControleFluxo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+[Descrição Oficial do Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo) 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Esse projeto consiste em um algoritmo que simboliza a contagem das repetições de um laço for, baseado nos valores de dois parâmetros passados ao método `contar`. Além do algoritmo, foi implemetado uma regra de negócio criando uma restrição para os valores que podem ser atribuídos aos parâmetros, dessa forma, para execução correta do algortimo, o primeiro parâmetro sempre deve ser menor que o segundo, caso contrário, será lançado uma exceção personalizada do tipo checada, criada para esse projeto, chamada `ParametrosInvalidosException`.
