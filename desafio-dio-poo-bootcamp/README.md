@@ -1,5 +1,5 @@
 # Resumo
-Módulo: 
+Módulo: Estruturas de Dados e API de Streams em Java
 
 Desafio de Projeto: Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
